@@ -1,8 +1,9 @@
 # viz
 data visualization
 
-[Squirrel Censcus Website](https://www.thesquirrelcensus.com/)
+[Squirrel Census Website](https://www.thesquirrelcensus.com/)
 
+[Squirrel Census Presentation](https://youtu.be/6JGPXuxayw4?t=1879)
 
 [NYC Maps](https://www.nyc.gov/nyc-resources/nyc-maps.page)
 
